@@ -13,7 +13,7 @@ public class Calculadora {
     int numA;
     int numB;
     
-    public void recibirNumero(int A, int B){
+    public void recibirNumero(int A, int B){//comantarios de linea
         numA = A;
         numB = B;
         agregarNum(numA,numB);
