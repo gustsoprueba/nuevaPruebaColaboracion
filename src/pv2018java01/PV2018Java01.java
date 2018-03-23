@@ -23,7 +23,7 @@ public class PV2018Java01 {
         Calculadora casio = new Calculadora();
         casio.recibirNumero(numA,numB);
         System.out.println("El resultado es: " + casio.sumar());
-        System.out.println("El resultado es: " + casio.realizarPotencia());
+        System.out.println("El resultado es: " + casio.realizarPotencia());//estoy viendo que pasa
         System.out.println("El resultado es: " + casio.factorial());//nuevo comentario
     }
     
