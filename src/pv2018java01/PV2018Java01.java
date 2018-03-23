@@ -19,6 +19,7 @@ public class PV2018Java01 {
     public static void main(String[] args) {
         int numA = 5;
         int numB = 5;
+        int numC = 7;
         Calculadora casio = new Calculadora();
         casio.recibirNumero(numA,numB);
         System.out.println("El resultado es: " + casio.sumar());
